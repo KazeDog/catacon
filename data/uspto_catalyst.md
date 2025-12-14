@@ -1,0 +1,1 @@
+Data is available at https://tdcommons.ai/single_pred_tasks/yields/#uspto.
