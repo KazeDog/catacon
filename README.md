@@ -1,1 +1,1 @@
-Predicting Catalyst using Dynamic Graph Nerual Network and Contrastive Learning
+CataCon: a contrastive graph representation learning framework for catalyst prediction
