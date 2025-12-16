@@ -1,9 +1,3 @@
-# !/usr/bin/python3
-# @File: CELosses.py
-# --coding:utf-8--
-# @Author:yuwang
-# @Email:as1003208735@foxmail.com
-# @Time: 2023/6/26 20:32
 from torch import nn
 import torch
 import torch.nn.functional as F

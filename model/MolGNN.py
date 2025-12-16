@@ -1,9 +1,3 @@
-# !/usr/bin/python3
-# @File: MolGNN.py
-# --coding:utf-8--
-# @Author:yuwang
-# @Email:as1003208735@foxmail.com
-# @Time: 2023/6/17 16:58
 import torch
 from torch_geometric.nn import GAT, GraphSAGE, GIN, GCN, pool, global_mean_pool
 from torch_geometric.utils.smiles import x_map, e_map

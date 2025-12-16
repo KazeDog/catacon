@@ -1,10 +1,3 @@
-# !/usr/bin/python
-# @File: util.py
-# --coding:utf-8--
-# @Author:yuwang
-# @Email:as1003208735@foxmail.com
-# @Time: 2022/5/10 21:58
-# @Software: PyCharm
 import torch
 from rdkit import Chem
 from rdkit.Chem import SanitizeFlags
